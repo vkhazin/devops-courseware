@@ -38,14 +38,6 @@ The objectives of this course are:
 * Benefits of DevOps
 * Common causes of DevOps failure
 
-### Cultural Philosophy
-
-* Remove Silos
-* Optimize Productivity 
-* Enhance Reliability
-* Improve Security
-* Promote Collaboration
-
 ### Typical IT Challenges
 
 * Organization Silos
@@ -53,6 +45,14 @@ The objectives of this course are:
 * Technology Integration and Upgrades
 * Infrastructure Management
 * Compliance and Security
+
+### DevOps Philosophy
+
+* Remove Silos
+* Optimize Productivity 
+* Enhance Reliability
+* Improve Security
+* Promote Collaboration
 
 
 
