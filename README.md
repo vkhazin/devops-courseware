@@ -54,5 +54,12 @@ The objectives of this course are:
 * Improve Security
 * Promote Collaboration
 
+### Infrastructure as a Code
+
+* Objectives, Motivation and Principals
+* Tools and approaches
+* Introduction to Terraform
+* Introduction to Ansible
+
 
 
