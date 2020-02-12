@@ -63,6 +63,7 @@ The objectives of this course are:
 
 ### Continuous Delivery
 
+* Definition and Principles
 * Continuous Integration
 * Continuous Deployment
 * Testing in production anyone?
