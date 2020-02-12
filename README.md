@@ -80,10 +80,15 @@ The objectives of this course are:
 
 * What's at stake?
 * Monitoring 101
-* Logs vs Log Aggregations
+* Logs vs Log Aggregation
 * Tools and Practices
 
+### Continuous Testing
 
-
+* Rapid Feedback to Developers
+* Monitor Infrastructure Drift
+* Prevent Data Exposure/Breach
+* Common Pitfalls
+* 
 
 
