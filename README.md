@@ -51,9 +51,8 @@ The objectives of this course are:
 * Organization Silos
 * Resource Management
 * Technology Integration and Upgrades
+* Infrastructure Management
 * Compliance and Security
-
-
 
 
 
