@@ -40,11 +40,11 @@ The objectives of this course are:
 
 ### Cultural Philosophy
 
-* Removing silos
-* Optimizing productivity and Reliability
-* Improving Security
-
-
+* Remove silos
+* Optimize productivity 
+* Enhance Reliability
+* Improve Security
+* Promote collaboration
 
 
 
