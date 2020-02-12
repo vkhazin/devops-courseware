@@ -89,6 +89,7 @@ The objectives of this course are:
 * Monitor Infrastructure Drift
 * Prevent Data Exposure/Breach
 * Common Pitfalls
-* 
+* Tools and practices
+
 
 
