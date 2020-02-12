@@ -46,5 +46,14 @@ The objectives of this course are:
 * Improve Security
 * Promote Collaboration
 
+### Typical IT Challenges
+
+* Organization Silos
+* Resource Management
+* Technology Integration and Upgrades
+* Compliance and Security
+
+
+
 
 
