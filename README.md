@@ -72,8 +72,15 @@ The objectives of this course are:
 ### Configuration & Secrets Management
 
 * Motivation
-* Configuration Managment
+* Configuration Management
 * Secrets Management
+* Tools and Practices
+
+### Monitoring & Logging
+
+* What's at stake?
+* Monitoring 101
+* Logs vs Log Aggregations
 * Tools and Practices
 
 
