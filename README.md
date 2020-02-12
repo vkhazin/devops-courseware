@@ -27,7 +27,7 @@ The objectives of this course are:
 * Software background: enterprise environment, networking, distributed systems, and multi-tier architecture
 * Operation background: deployments, upgrades/rollbacks, monitoring, and change management
 * QA background: unit testing, integration testing, and user acceptance testing
-* Personal full-access [Azure](http://portal.azure.com/) account for hands-on labs using [http://online.visualstudio.com/](http://online.visualstudio.com/)
+* Personal full administrative access [Azure](http://portal.azure.com/) free trial account for hands-on labs using [http://online.visualstudio.com/](http://online.visualstudio.com/)
 
 ## Outline
 
