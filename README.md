@@ -56,7 +56,7 @@ The objectives of this course are:
 
 ### Infrastructure as a Code
 
-* Objectives, Motivation and Principals
+* Objectives, Motivation and Principles
 * Tools and approaches
 * Introduction to Terraform
 * Introduction to Ansible
@@ -68,6 +68,15 @@ The objectives of this course are:
 * Continuous Deployment
 * Testing in production anyone?
 * Introduction to Jenkins
+
+### Configuration & Secrets Management
+
+* Motivation
+* Configuration Managment
+* Secrets Management
+* Tools and Practices
+
+
 
 
 
