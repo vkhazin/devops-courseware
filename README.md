@@ -11,7 +11,8 @@ The objectives of this course are:
 * to emphasize the discipline of automation and delivery for infrastructure and applications
 * to explore automated configuration/secrets management options
 * to highlight the importance of automated monitoring
-* to get familiar with industry tools and frameworks
+* to scout continuous testing promises
+* to list industry tools and frameworks
 
 ## Audience
 
