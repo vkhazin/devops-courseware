@@ -17,7 +17,7 @@
 * [Why DevOps?](/course-intro/why-devops.md)
 * [Definitions](/course-intro/definitions.md)
 * [Benefits](/course-intro/benefits.md)
-* [Common Failures](/course-intro/common-failures.md)
+* [Common Failures](/course-intro/failures.md)
 * [Summary](/course-intro/summary.md)
 
 
