@@ -1,5 +1,7 @@
 # Definitions
 
+[![](https://19yw4b240vb03ws8qm25h366-wpengine.netdna-ssl.com/wp-content/uploads/devops-classic-diagram-300x170.png)](https://nordicapis.com/apiops-cycles-open-set-of-tools-and-methods-for-lean-api-development/devops-classic-diagram/)
+
 ## What's DevOps
 
 * DevOps is the offspring of agile software development
