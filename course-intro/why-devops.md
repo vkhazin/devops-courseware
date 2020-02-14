@@ -1,4 +1,4 @@
-[![](/assets/why.png)](https://devopssimulations.com/why-devops-2/)
+[![](/assets/why-devops.jpg)](https://www.helpnetsecurity.com/2016/01/12/how-do-you-ensure-success-with-devops/)
 
 * Digitization is increasing demand for innovation, experimentation and faster deliveries
 * Increased speed and agility is imperative for survival
