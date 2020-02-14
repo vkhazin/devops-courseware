@@ -1,5 +1,7 @@
 # Chapter Summary
 
+![](/assets/think.png)
+
 * How do you define DevOps?
 * What is not DevOps?
 * What are the DevOps opportunities for your organization?
