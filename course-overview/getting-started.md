@@ -4,7 +4,8 @@
 * If you did not have a chance to fill-out pre-course survey, please do so now
 * You will be using your own laptop and Microsoft Azure Cloud for the hands-on labs
 * A personal account under your full control is highly recommended
-* The only local machine requirement is an RDP and SSH clients
+* The only local machine requirement is an RDP \(built-for Windows, requires download for [Mac](https://apps.apple.com/ca/app/microsoft-remote-desktop-10/id1295203466?mt=12)/[Linux](https://remmina.org/how-to-install-remmina/)\) and SSH client \(requires download for [Windows](https://activedirectorypro.com/ssh-clients-for-windows/)\)
+* We will install and configure the required software when we need them
 
 
 
