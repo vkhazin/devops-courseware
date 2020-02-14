@@ -1,4 +1,4 @@
-# Why DevOps?
+[![](/assets/why.png)](https://devopssimulations.com/why-devops-2/)
 
 * Digitization is increasing demand for innovation, experimentation and faster deliveries
 * Increased speed and agility is imperative for survival
