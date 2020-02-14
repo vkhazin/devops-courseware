@@ -15,6 +15,7 @@
 
 * [Introduction](/course-intro/intro.md)
 * [Why DevOps?](/course-overview/why-devops.md)
+* [Benefits](/course-intro/benefits.md)
 
 
 
