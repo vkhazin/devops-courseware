@@ -11,5 +11,9 @@
 * [Participants](/course-overview/participants.md)
 * [Logistics](/course-overview/logistics.md)
 
+## Course Overview
+
+* [Introduction](/course-intro/intro.md)
+
 
 
