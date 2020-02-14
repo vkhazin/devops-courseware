@@ -1,0 +1,11 @@
+  
+language: node_js
+node_js:
+  - "10"
+  
+script:
+  - npm install
+  - npm install gitbook-cli surge -g
+  - gitbook install
+  - gitbook build
+  - surge --domain http://devops-courseware.surge.sh/ --project ./_book
