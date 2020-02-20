@@ -20,5 +20,10 @@
 * [Common Failures](/course-intro/failures.md)
 * [Summary](/course-intro/summary.md)
 
+## Typical IT Challenges
+
+* [Introduction](/it-challenges/intro.md)
+* [Summary](/it-challenges/summary.md)
+
 
 
