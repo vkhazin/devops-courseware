@@ -1,6 +1,6 @@
 # Summary
 
-## Course Introduction
+## Course Overview
 
 * [Introduction](/README.md)
 * [Getting Started](/course-overview/getting-started.md)
@@ -11,7 +11,7 @@
 * [Participants](/course-overview/participants.md)
 * [Logistics](/course-overview/logistics.md)
 
-## Course Overview
+## Course Introduction
 
 * [Introduction](/course-intro/intro.md)
 * [Why DevOps?](/course-intro/why-devops.md)
