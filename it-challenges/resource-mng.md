@@ -4,9 +4,10 @@
 * DevOps require individuals with the right skills and a willingness to collaborate
 * Forget "I don't know": treat every task as an opportunity to learn
 * RTFM: avoid asking peers how something works without reading first
-* Search before asking, do not reply-all with: "[What's a GitHub?](https://lmgtfy.com/?q=what's+github&pp=1&iie=1)"
+* Search before asking, do not reply-all with: "\[What's a GitHub?\]\([https://lmgtfy.com/?q=what's+github&pp=1&iie=1](https://lmgtfy.com/?q=what's+github&pp=1&iie=1)\)"
 * Anything is possible. Never say never. Trust but verify
 * Technical debt: whether the debt exists after your time on the project is on you
+* And technical debt extends [beyond technical](https://www.linkedin.com/pulse/technical-debt-isnt-just-andrea-goulet-she-her-/) into culture and behaviours
 * Amazon principle: "Yes, it is your job. Boundary-less behaviour is expected"
 
 
