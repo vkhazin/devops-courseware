@@ -1,6 +1,6 @@
 # Summary
 
-## Course Overview
+## Course Introduction
 
 * [Introduction](/README.md)
 * [Getting Started](/course-overview/getting-started.md)
