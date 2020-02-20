@@ -25,6 +25,8 @@
 * [Introduction](/it-challenges/intro.md)
 * [Resource Management](/it-challenges/resource-mng.md)
 * [Technology Integration & Upgrades](/it-challenges/tech-integration-upgrades.md)
+* [Infrastructure Management](/it-challenges/infra-mng.md)
+* [Compliance & Security](/it-challenges/compliance-security.md)
 * [Summary](/it-challenges/summary.md)
 
 
