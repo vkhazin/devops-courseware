@@ -23,6 +23,7 @@
 ## Typical IT Challenges
 
 * [Introduction](/it-challenges/intro.md)
+* [Resource Management](/it-challenges/resource-mng.md)
 * [Summary](/it-challenges/summary.md)
 
 
