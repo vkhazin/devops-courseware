@@ -5,7 +5,7 @@
 * Working with Outdated Systems: replace infrastructure with IaaS and legacy software with Micro-services
 * Automate upgrades and integration testing
 * Automate regression and continuous testing
-* Favour interoperability, integration and longevity over a silver bullet solution or product
+* Favour interoperability, integration and longevity over a "[silver bullet](https://www.merriam-webster.com/dictionary/silver%20bullet)" solution or product
 
 
 
