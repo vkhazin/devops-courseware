@@ -29,5 +29,12 @@
 * [Compliance & Security](/it-challenges/compliance-security.md)
 * [Summary](/it-challenges/summary.md)
 
+## Philosophy
+
+* [Introduction](/philosophy/intro.md)
+* [Summary](/philosophy/summary.md)
+
+
+
 
 
