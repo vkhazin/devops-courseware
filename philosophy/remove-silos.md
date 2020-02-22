@@ -1,5 +1,7 @@
 # Remove Silos
 
+[![](/assets/remove-silos.jpg)](https://www.accenture.com/us-en/blogs/blogs-reshma-shinde-devops-transformations-operations)
+
 * DevOps as a set of behaviours and tools that allow a team to function
 * Different from the Agile - the ability to move a project along a timeline and accommodating the changes
 * DevOps looks beyond development and encompasses all the steps from concept to delivery

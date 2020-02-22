@@ -33,6 +33,7 @@
 
 * [Introduction](/philosophy/intro.md)
 * [Remove Silos](/philosophy/remove-silos.md)
+* [Optimize Productivity](/philosophy/optimize-productivity.md)
 * [Summary](/philosophy/summary.md)
 
 
