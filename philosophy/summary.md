@@ -5,6 +5,7 @@
 * Did you have past experiences improving reliability without reducing productivity?
 * What do you see as the biggest security risk for the organization?
 * Lack of collaboration is not a new problem, how did you deal with it before?
+* How do you see DevOps is different to solve the old problems?
 
 
 
