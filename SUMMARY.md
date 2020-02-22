@@ -32,9 +32,8 @@
 ## Philosophy
 
 * [Introduction](/philosophy/intro.md)
+* [Remove Silos](/philosophy/remove-silos.md)
 * [Summary](/philosophy/summary.md)
-
-
 
 
 
