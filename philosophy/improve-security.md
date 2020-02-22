@@ -7,7 +7,7 @@
 * Faster and less risky processes speed-up squashing security bugs
 * Not bound to particular platforms equates to not being stuck with an outdated, inflexible software release process
 * Tend to adopt agile architectures and technologies e.g. Micro-Services and Container reducing attack surfaces
-* Agile infrastructure, application and platform security 
+* Agile infrastructure, application and platform security and [DevOpSec](https://devopsec.org/)
 
 
 

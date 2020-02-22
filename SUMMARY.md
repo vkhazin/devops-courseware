@@ -36,6 +36,7 @@
 * [Optimize Productivity](/philosophy/optimize-productivity.md)
 * [Enhance Reliability](/philosophy/enhance-reliability.md)
 * [Improve Security](/philosophy/improve-security.md)
+* [Promote Collaboration](/philosophy/promote-collaboration.md)
 * [Summary](/philosophy/summary.md)
 
 
