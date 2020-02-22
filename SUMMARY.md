@@ -35,6 +35,7 @@
 * [Remove Silos](/philosophy/remove-silos.md)
 * [Optimize Productivity](/philosophy/optimize-productivity.md)
 * [Enhance Reliability](/philosophy/enhance-reliability.md)
+* [Improve Security](/philosophy/improve-security.md)
 * [Summary](/philosophy/summary.md)
 
 
