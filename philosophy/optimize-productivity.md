@@ -1,6 +1,6 @@
 # Optimize Productivity
 
-* What matters as "productivity" in the IT industry:
+* What matters as "productivity" in software development:
   ![](/assets/measure-productivity.png)
 
 
