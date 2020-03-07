@@ -42,7 +42,8 @@
 ## Infrastructure as Code \(IaC\)
 
 * [Introduction](/iac/intro.md)
-* [Objectives](/iac/objectives.md)
+* [Objectives & Motivation](/iac/objectives.md)
+* [Principles & Practices](/iac/principles.md)
 * [Summary](/iac/summary.md)
 
 

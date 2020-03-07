@@ -1,7 +1,7 @@
 # Infrastructure as Code \(IaC\)
 
 * Objectives & Motivation
-* Principles
+* Principles & Practices
 * Tools and approaches
 * Introduction to Terraform
 * Introduction to Ansible
