@@ -1,4 +1,4 @@
-# Objectives
+# Objectives & Motivation
 
 [![](/assets/iac-objectives.png)](https://docs.microsoft.com/en-us/azure/devops/learn/what-is-infrastructure-as-code)
 
@@ -7,6 +7,7 @@
 * Create a flexible workflow to simplify collaboration for everyone involved in the development process
 * Make data, content, and configuration management transparent and traceable
 * Make infrastructure deployments testable
+* Reduce the risk of deployments and knowledge loss
 
 
 
