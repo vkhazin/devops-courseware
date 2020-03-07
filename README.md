@@ -57,7 +57,7 @@ The objectives of this course are:
 ### Infrastructure as a Code
 
 * Objectives, Motivation and Principles
-* Tools and approaches
+* Tools and Approaches
 * Introduction to Terraform
 * Introduction to Ansible
 

@@ -2,7 +2,7 @@
 
 * Objectives & Motivation
 * Principles & Practices
-* Tools and approaches
+* Tools and Approaches
 * Introduction to Terraform
 * Introduction to Ansible
 * Summary
