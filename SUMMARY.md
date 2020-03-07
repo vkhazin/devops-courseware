@@ -39,5 +39,11 @@
 * [Promote Collaboration](/philosophy/promote-collaboration.md)
 * [Summary](/philosophy/summary.md)
 
+## Infrastructure as Code \(IaC\)
+
+* [Introduction](/iac/intro.md)
+* [Objectives](/iac/objectives.md)
+* [Summary](/iac/summary.md)
+
 
 
