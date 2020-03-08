@@ -3,8 +3,8 @@
 * Responsible for interacting with provider-specific API's
 * Responsible for understanding API interactions and exposing resources
 * Generally are IaaS \(infrastructure as a Service\) e.g. Alibaba Cloud, AWS, GCP, Microsoft Azure, OpenStack 
-* PaaS \(Platform as a Service\) e.g. Heroku
-* SaaS \(Software as a Service\) e.g. Terraform Cloud, DNSimple, Cloudflare
+* Some PaaS \(Platform as a Service\) e.g. Heroku
+* And some SaaS \(Software as a Service\) e.g. Terraform Cloud, DNSimple, Cloudflare
 * Azure Provider configuration:
 * ```
   provider "azurerm" {
