@@ -45,6 +45,7 @@
 * [Objectives & Motivation](/iac/objectives.md)
 * [Principles & Practices](/iac/principles.md)
 * [Tools & Approaches](/iac/tools.md)
+* [Terraform Introduction](/iac/terraform-intro.md)
 * [Summary](/iac/summary.md)
 
 
