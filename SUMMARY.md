@@ -46,6 +46,9 @@
 * [Principles & Practices](/iac/principles.md)
 * [Tools & Approaches](/iac/tools.md)
 * [Terraform Introduction](/iac/terraform-intro.md)
+* [Terraform Provider](/iac/terraform-provider.md)
+* [Terraform Variables](/iac/terraform-variables.md)
+* [Terraform Output & Locals](/iac/terraform-output-locals.md)
 * [Summary](/iac/summary.md)
 
 
