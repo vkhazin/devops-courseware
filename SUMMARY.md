@@ -49,6 +49,9 @@
 * [Terraform Provider](/iac/terraform-provider.md)
 * [Terraform Variables](/iac/terraform-variables.md)
 * [Terraform Output & Locals](/iac/terraform-output-locals.md)
+* [Azure 101](/iac/azure-101.md)
+* [Azure Availability Zones](/iac/azure-azs.md)
+* [Azure IaaS](/iac/azure-iaas.md)
 * [Summary](/iac/summary.md)
 
 
