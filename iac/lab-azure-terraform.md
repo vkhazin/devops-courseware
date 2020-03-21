@@ -1,6 +1,6 @@
 # Lab: Terraform for Azure IaaS
 
-* Navigate to https://shell.azure.com a personal account with full control is required
+* Navigate to [https://shell.azure.com](https://shell.azure.com) a personal account with full control is required
 * Login with Microsoft Credentials
 * Initialize Azure Shell and required storage account
 * Once the shell has loaded, select PowerShell, and select the double parenthesis icon to open the editor
