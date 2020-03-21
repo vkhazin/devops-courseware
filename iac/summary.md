@@ -1,6 +1,6 @@
 # Chapter Summary
 
-* What IaC stand for?
+* What IaC stands for?
 * What are the objectives of IaC?
 * What are the principles of IaC?
 * What are the tools and different approaches available for IaC?
