@@ -1,6 +1,9 @@
 # Azure IaaS
 
-* The top-level container in Azure to organize our resources is a resource group, a logical container in a given region
+![](/assets/azure-iaas.jpg)
+
+* The top-level container in Azure to organize our resources is a subscription across all regions
+* Then a resource group as a logical container in a given region
 * IaaS starts with creating an isolated from the other Azure tenants and the Internet [Virtual Network](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-overview) or VNet
 * Virtual Network is not an equivalent of a single datacentre as it may span across multiple physical locations
 * Virtual Network requires a network CIDR address allocation e.g. 10.0.0.0/24
