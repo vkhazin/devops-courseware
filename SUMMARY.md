@@ -52,6 +52,7 @@
 * [Azure 101](/iac/azure-101.md)
 * [Azure Availability Zones](/iac/azure-azs.md)
 * [Azure IaaS](/iac/azure-iaas.md)
+* [Lab: Terraform for Azure IaaS](/iac/lab-azure-terraform.md)
 * [Summary](/iac/summary.md)
 
 
